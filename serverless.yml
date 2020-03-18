@@ -1,3 +1,5 @@
+org: shahid
+app: notes-app-api-app
 # NOTE: update this with your service name
 service: notes-app-api
 
