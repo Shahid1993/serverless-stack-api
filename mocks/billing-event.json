@@ -1,0 +1,8 @@
+{
+    "body": "{\"source\":\"tok_visa\",\"storage\":53,\"description\":\"Scratch charge\",\"shipping\": {\"name\":\"Shahid\",\"address\":{\"line1\": \"510 Townsend St\",\"postal_code\": \"98140\",\"city\": \"San Francisco\",\"state\": \"CA\",\"country\": \"US\"}}}",
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "USER-SUB-1234"
+        }
+    }
+}
